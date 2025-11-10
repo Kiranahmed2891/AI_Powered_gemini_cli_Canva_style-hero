@@ -1,0 +1,1 @@
+// This is a placeholder for JavaScript. No dynamic functionality is required for this static page.
